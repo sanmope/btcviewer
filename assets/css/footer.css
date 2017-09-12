@@ -1,0 +1,25 @@
+.footer {
+    background-color: #000;
+    bottom: 0;
+    font-family: "Cantarell-Bold", Helvetica, Arial, sans-serif;
+    height: 30px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.wrapper {
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+}
+
+.copyright{
+    font-size: 11px;
+    height: 30px;
+    line-height: 28px;
+    position: absolute;
+    text-transform: uppercase;
+    padding-left: 15px;
+}

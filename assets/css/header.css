@@ -1,0 +1,30 @@
+.navbar-top{
+    box-shadow: rgba(0, 0, 0, 0.75) 0px 4px 8px 0px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    padding-top: 7px;
+}
+
+.navbar-top .navbar-nav>li>a{
+    color: black;
+}
+
+.navbar-top .navbar-nav>li>a:hover{
+    color: #2e54e6;
+}
+
+.navbar-logo{
+    background-position: 0px 0px;
+    width: 304px;
+    height: 60px;
+    margin-bottom: 5px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.navbar-right{
+	padding-top: 4px;
+}

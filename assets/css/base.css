@@ -1,0 +1,8 @@
+.page-content{
+    bottom: 30px;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 100px;
+    overflow-y: auto;
+}
